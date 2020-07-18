@@ -1,0 +1,92 @@
+*{
+    font-family: 'Poppins', "sans-serif";
+}
+.container{
+    margin-bottom: 60px;
+}
+header{
+    background-color: #F0FFF0;
+}
+.navigation{
+    background-color: #F0FFF0;
+}
+.logo img{
+    width: 200px;
+}
+.sign-in-btn{
+    width: 104px;
+    height: 43px;
+}
+.start-btn{
+    width: 153px;
+    height: 43px;
+}
+.banner{
+    padding: 5% 0;
+}
+
+main{
+    margin-top: 50px;
+}
+.cate{
+    padding: 20px;
+    background-color: #F8FFFB;
+    border-radius: 10px;
+    transition: 0.5s;
+}
+.cate:hover{
+    background-color: white;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+}
+.cate img{
+    width: 70px;
+    height: 85px;
+    margin: auto;
+    margin-top: 20px;
+}
+.date img{
+    width: 18px;
+    height: auto;
+}
+.seat img{
+    width: 18px;
+    height: auto;
+}
+.date-text{
+    margin-left: 5px;
+    margin-top: 20px;
+}
+.course{
+    padding: 20px;
+    background: #FFFFFF;
+    border-radius: 18px;
+}
+.course:hover{
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+}
+.footer{
+    margin-bottom: 1%;
+}
+.body-padding{
+    padding-left: 0%;
+}
+.test-img{
+    width: 120px;
+    margin-right: 50px;
+}
+footer{
+    background-color: #282531;
+}
+.pre-footer{
+   
+    padding: 50px 0;
+}
+.text{
+    color: white;
+}
+.main-footer{
+    text-align: center;
+}
+.copy-text{
+    color: #CDCDCD;
+}
