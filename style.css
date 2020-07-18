@@ -1,8 +1,8 @@
 *{
     font-family: 'Poppins', "sans-serif";
 }
-.container{
-    margin-bottom: 60px;
+.categories{
+    margin-bottom: 50px;
 }
 header{
     background-color: #F0FFF0;
@@ -89,4 +89,11 @@ footer{
 }
 .copy-text{
     color: #CDCDCD;
+}
+.card-deck{
+    margin: auto;
+    
+}
+.card.cate {
+    height: 265px;
 }
